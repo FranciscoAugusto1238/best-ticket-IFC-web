@@ -72,19 +72,19 @@ Aqui onde estão listadas suas compras, onde você pode adicionar outras, avali�
 
 ### Cadastro Permissão
 
-
+>> Aqui é possível criar permissões para os usuários.
 
 ### Cadastro Permissão Usuário
 
-Adiciona uma permissão ao usuário desejado
+>> Após a criação da permissão, é possível adicioná-la ao usuário desejado
 
 ### Lista Permissão Usuário
 
-Listagem das permissões de cada usuário, se este for o admin, pode removê-las
+>> Listagem das permissões de cada usuário, se este for o admin, pode removê-las
 
 ### Lista Usuário
 
-Listagem dos usuários cadastrados, permitindo a edição e exclusão destes
+>> Listagem dos usuários cadastrados, permitindo a edição e exclusão destes
 
 ## Project setup
 ```
