@@ -54,37 +54,37 @@ Uma barra lateral estilizada com CSS contendo os seguintes direcionamentos.
  - Listar Permissão Usuario
  - Listar Usuario
 
-### Início
+> ### Início
 
-Permite ver os eventos que estão em andamento.
+> Permite ver os eventos que estão em andamento.
 
-### Sobre
+> ### Sobre
 
-Uma rota que explica sobre a nossa missão com o projeto, sua criação e a equipe envolvida na realização.
+> Uma rota que explica sobre a nossa missão com o projeto, sua criação e a equipe envolvida na realização.
 
-### Cadastro de Eventos
+> ### Cadastro de Eventos
 
-Procura pelos eventos numa pesquisa rápida, exclua ou adicione um novo evento, colocando seu nome, descrição, local, o organizador e o valor do evento.
+> Procura pelos eventos numa pesquisa rápida, exclua ou adicione um novo evento, colocando seu nome, descrição, local, o organizador e o valor do evento.
 
-### Comprar Eventos
+> ### Comprar Eventos
 
-Aqui onde estão listadas suas compras, onde você pode adicionar outras, avaliá-las ou excluí-las
+> Aqui onde estão listadas suas compras, onde você pode adicionar outras, avaliá-las ou excluí-las
 
-### Cadastro Permissão
+> ### Cadastro Permissão
 
->> Aqui é possível criar permissões para os usuários.
+> Aqui é possível criar permissões para os usuários.
 
-### Cadastro Permissão Usuário
+> ### Cadastro Permissão Usuário
 
->> Após a criação da permissão, é possível adicioná-la ao usuário desejado
+> Após a criação da permissão, é possível adicioná-la ao usuário desejado
 
-### Lista Permissão Usuário
+> ### Lista Permissão Usuário
 
->> Listagem das permissões de cada usuário, se este for o admin, pode removê-las
+> Listagem das permissões de cada usuário, se este for o admin, pode removê-las
 
-### Lista Usuário
+> ### Lista Usuário
 
->> Listagem dos usuários cadastrados, permitindo a edição e exclusão destes
+> Listagem dos usuários cadastrados, permitindo a edição e exclusão destes
 
 ## Project setup
 ```
