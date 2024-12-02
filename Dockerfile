@@ -1,15 +1,14 @@
-bashCopy code
-# Use the official Node.js image as the base image
+# Use a imagem oficial do Node.js como base
 FROM node:18
 
-# Set the working directory in the container
+# Defina o diretório de trabalho dentro do container
 WORKDIR /app
 
-# Copy the application files into the working directory
+# Copie todos os arquivos do seu projeto para o diretório de trabalho
 COPY . /app
 
-# Install the application dependencies
+# Instale as dependências do projeto
 RUN npm install
 
-# Define the entry point for the container
-CMD ["npm", "serve"]
+# Execute o comando para iniciar o servidor de desenvolvimento Vue.js
+CMD ["npm", "run", "serve"]
