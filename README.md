@@ -18,7 +18,7 @@ Um sistema de gerenciamento de eventos acadêmicos, que permita aos alunos visua
 
 IDE Visual Studio Code
 Framework Vue.js
-Banco de Dados Oracle Database, linguagem SQL
+Banco de Dados MySQL, linguagem SQL
 Github
 Linguagem Java
 Linguagem JavaScript
