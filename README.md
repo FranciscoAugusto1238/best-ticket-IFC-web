@@ -1,10 +1,18 @@
-# Título do Projeto
+# Introdução
 
-Best Ticket
+Projeto feito para a disciplina de Desenvolvimento Web do Instituto Federal de Educação Ciência e Tecnologia Catarinense - Campus Videira.
 
 # Grupo
 
 Felipe Biava Favarin e Francisco Augusto Neves Moreira Souza
+
+# Título do Projeto
+
+Best Ticket
+
+## Tema escolhido
+
+Um sistema de gerenciamento de eventos acadêmicos, que permita aos alunos visualizar os eventos em andamento no campus, inscrever-se neles, avaliá-los e sugerir novos eventos. O administrador deve poder cadastrar os eventos, incluindo todas as informações relevantes, e os alunos devem ter a opção de se inscrever.
 
 # Ferramentas Usadas
 
@@ -27,10 +35,6 @@ Keycloak-js 22.0.1
 Firebase 10.7.1
 
 *demais versões/requisitos estão no arquivo package.json
-
-## Tema escolhido
-
-Sistema de Gerenciamento de Eventos: Um sistema para gerenciamento de eventos acadêmicos, que permita aos alunos visualizar os eventos em andamento no campus, inscrever-se neles, avaliá-los e sugerir novos eventos. O administrador deve poder cadastrar os eventos, incluindo todas as informações relevantes, e os alunos devem ter a opção de se inscrever.
 
 ## Funcionalidades implementadas
 
@@ -118,3 +122,11 @@ npm run dev
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Melhorias futuras
+
+Possível implementação prática do projeto junto com o servidor e a aplicação. Isso pode vir a ser um tema de conclusão de curso ou servir como base após esta experiência de construção do projeto.
+
+Melhorar certos nomes e estilizações, respeitando o guia WCAG para melhor UX/UI design ao projeto.
+
+Possíveis implementações que trazem mais funções e edições aos eventos, podendo ser oferecido como projeto/prático funcional aos câmpus do Instituto Federal Catarinense, ou demais outros.
