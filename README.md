@@ -113,7 +113,7 @@ npm run lint
 
 ### For start
 ```
-npm start
+npm run dev
 ```
 
 ### Customize configuration
