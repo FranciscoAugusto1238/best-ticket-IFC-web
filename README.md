@@ -17,7 +17,6 @@ Linguagem JavaScript
 IDE IntelliJ IDEA
 Linguagens HTML e CSS
 Uso do Node.JS
-API REST
 
 ## Versões
 
@@ -85,6 +84,12 @@ Uma barra lateral estilizada com CSS contendo os seguintes direcionamentos.
 > ### Lista Usuário
 
 > Listagem dos usuários cadastrados, permitindo a edição e exclusão destes
+
+## Arquitetura adotada
+
+O projeto adotou a arquitetura de software em camadas, usando API REST para o backend e uma aplicação web para o frontend, usando Model View ViewModel (MVVM).
+
+O projeto está mais relacionado a ser um Progressive Web Application (PWA) do que um SPA (single page application).
 
 ## Project setup
 ```
